@@ -1,0 +1,10 @@
+{
+    "name": "socketio-multicore-httpsys"
+  , "version": "0.0.1"  
+  , "dependencies": {
+        "httpsys": "git://github.com/tjanczuk/httpsys.git",
+        "socket.io": "0.9.12"     
+    }  
+  , "main": "server"
+  , "engines": { "node": "0.8.x" }  
+}
